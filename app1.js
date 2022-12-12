@@ -194,8 +194,8 @@ knowMore.addEventListener('click',function(){
     <br />
     For More Info Contact Us @
     <br />
-    <h4>Mr Rahul Vishwakarma</h4>
-    <h4>Cont : 8779201698</h4>
+    <h4>Prashant Patil</h4>
+    <h4>Cont : 7030549525</h4>
     `
 })
 
@@ -206,8 +206,8 @@ function openAboutModal(){
     <br />
     For More Info Contact Us @
     <br />
-    <h4>Mr Rahul Vishwakarma</h4>
-    <h4>Cont : 8779201698</h4>
+    <h4>Prashant Patil</h4>
+    <h4>Cont : 7030549525</h4>
     `
 }
 
